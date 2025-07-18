@@ -9,7 +9,7 @@ beforeEach(() => {
         ok: true,
         json: async () => [
           {
-            id: 1,
+            id: "1",
             name: 'Christopher Nolan',
             bio: 'Director of mind-bending films.',
             movies: [{ id: 'm1', title: 'Inception', time: 148, genres: ['Sci-Fi', 'Thriller'] }],
