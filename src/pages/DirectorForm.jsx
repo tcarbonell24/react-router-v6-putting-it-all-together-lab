@@ -20,8 +20,7 @@ function DirectorForm() {
     })
     .then(data => {
         console.log(data)
-        // handle context/state changes
-        // navigate to newly created director page
+
     })
     .catch(console.log)
   }

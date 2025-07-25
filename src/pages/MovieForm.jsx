@@ -32,8 +32,7 @@ function MovieForm() {
     })
     .then(data => {
       console.log(data)
-      // handle context/state changes
-      // navigate to newly created movie page
+
     })
     .catch(console.log)
   }
